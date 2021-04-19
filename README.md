@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanhaiaya Chalase</h1>
-<h3 align="center">Full-Stack developer|| Compitative coder||Passionate to design solutions for the real world problems through new technoloy.</h3>
+<h3 align="center">Full-Stack developer|| Compitative coder||Passionate to design solutions for the real world problems through new technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiyachalase&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiyachalase" /> </p>
 
