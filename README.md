@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [College Project](https://github.com/kanhaiyachalase/college-websites)
 
-- 🌱 I’m currently learning **Tenserflow.js and Go lang**
+- 🌱 I’m currently learning ** DSA and Tenserflow.js **
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
