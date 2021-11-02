@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kanhaiyachalase](https://github.com/kanhaiyachalase)
 
-- 📝 I regularly write articles on [NoteBook](NoteBook)
+
 
 - 💬 Ask me about **JavaSript,React,Node.js**
 
