@@ -18,7 +18,7 @@
 
 
 
-- 💬 Ask me about **JavaSript,React,Node.js**
+ 💬 Ask me about **JavaSript,React,Node.js**
 
 - 📫 How to reach me **kschalase03@gmail.com**
 
