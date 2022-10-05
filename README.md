@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kanhaiaya Chalase</h1>
-<h3 align="center"> Passionate to design solutions for the real world problems through new technoloy.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiyachalase&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiyachalase" /> </p>
 
@@ -8,19 +8,19 @@
 
 
 
-- 🌱 I’m currently learning ** Data Structure  And Algorithm**
 
 
 
-- 🤝 I’m looking for help with **New Technology**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kanhaiyachalase](https://github.com/kanhaiyachalase)
 
 
 
-- 💬 Ask me about **JavaSript,React,Node.js**
 
-- 📫 How to reach me **kschalase03@gmail.com**
+
+
+
+
+
+
 
 
 
